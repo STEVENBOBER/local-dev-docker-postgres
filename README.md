@@ -1,6 +1,6 @@
 # Local Dev
 
-This project is a template for Docker + Postgres local dev environment for applications.
+This project is a template for Docker + Postgres local dev environment for current and future applications.
 
 ### Prerequisite Steps
 
